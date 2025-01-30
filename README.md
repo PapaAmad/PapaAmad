@@ -5,11 +5,11 @@ Je suis élève ingénieur statisticien économiste à l'**ENSAE de Dakar**, pas
 ## 🚀 Mes Stats GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PapaAmad&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=PapaAmad&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapaAmad&show_icons=true&theme=dark&layout=compact&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapaAmad&show_icons=true&theme=dark&layout=compact&card_width=320" />
 </a>
 
 ## 🏆 GitHub Profile Trophy

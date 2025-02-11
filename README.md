@@ -14,7 +14,7 @@ Je suis élève ingénieur statisticien économiste à l'**ENSAE de Dakar**, pas
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PapaAmad&theme=matrix)](https://github.com/PapaAmad/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PapaAmad&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Projets en Vedette
 
